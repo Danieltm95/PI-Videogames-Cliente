@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+   background-size: fill;
+   /* display: absolute; */
+   /* height: 100%; */
+   color: #808080;
+   text-decoration: none;
+ 
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+code {
+
+   
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+      monospace;
+}
+
+h1,h2 {
+  color: rgb(44, 44, 44);
+  text-decoration: none;
+}
+
+span{
+  color: rgb(44, 44, 44);
+}
